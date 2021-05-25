@@ -1,0 +1,24 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkviolet;
+}
+.note{
+    font-size: 18px;
+    color: cyan;
+}
+.copy_right_footer{
+    position: fixed;
+    color: khaki;
+    bottom: 0;
+    width: 100%;
+    background-color: limegreen;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border:5px solid yellow;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
